@@ -18,3 +18,7 @@ Practice using Git and GitHub: initializing repositories, making commits, and sy
 ## 📌 Status
 
 🚧 Work in progress — academic practice project.
+
+## 🚧 Development Notes
+
+ Working on setting up the base structure for the home page
