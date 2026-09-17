@@ -1,3 +1,20 @@
-Practica Html
-hola gente
-amikos
+# practicaHtml
+
+## 👋 About Me
+
+Hi! I'm Juan Pablo Jiménez, a student at the University of Costa Rica (UCR).
+
+This repository is part of my development practice, where I document my progress learning Git, GitHub, and web development.
+
+## 🎯 Project Goal
+
+Practice using Git and GitHub: initializing repositories, making commits, and syncing changes between my local environment and the remote.
+
+## 🛠️ Technologies
+
+- HTML
+- Git / GitHub
+
+## 📌 Status
+
+🚧 Work in progress — academic practice project.
